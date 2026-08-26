@@ -44,12 +44,12 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=berty0&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=berty0&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api?username=berty0&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api/top-langs/?username=berty0&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=berty0&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=berty0&theme=tokyonight&bg_color=1a1b26&color=70a5fd&line=70a5fd&point=ffffff&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
@@ -59,5 +59,8 @@
 <p align="left">
   <a href="https://github.com/berty0" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:tuamail@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
