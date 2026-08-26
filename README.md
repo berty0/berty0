@@ -1,13 +1,18 @@
 <!-- Banner Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Ciao,%20sono%20Berty!&fontSize=42&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Hi%20there,%20I'm%20Berty!&fontSize=42&animation=fadeIn" width="100%" />
 </p>
 
 <!-- Typing Animated Subtitle -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7DF1E&center=true&vcenter=true&width=500&lines=Frontend+Developer;Linux+Enthusiast;Open+Source+Explorer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7DF1E&center=true&vcenter=true&width=500&lines=Web+Developer;Linux+Enthusiast;Open+Source+Explorer" alt="Typing SVG" />
   </a>
+</p>
+
+<!-- Visitor Counter Badge -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=berty0&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
@@ -36,6 +41,17 @@
 
 ---
 
+## 💻 Featured Projects
+
+<p align="center">
+  <!-- Replace repository-name with your actual repo name -->
+  <a href="https://github.com/berty0">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=berty0&repo=your-cool-project&theme=tokyonight" />
+  </a>
+</p>
+
+---
+
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -51,6 +67,21 @@
   <a href="https://github.com/berty0">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=berty0&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
+</p>
+
+<!-- Contribution Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/berty0/berty0/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/berty0/berty0/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/berty0/berty0/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+## ⚡ Random Dev Quote
+
+<p align="center">
+  <img src="https://readme-quotes-celestial.vercel.app/api?theme=tokyonight" alt="Dev Quote" />
 </p>
 
 ---
