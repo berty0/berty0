@@ -6,3 +6,5 @@ Markdown
 Markdown
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=berty0&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berty0&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+Markdown
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Ciao,%20sono%20Berty!&fontSize=40)
