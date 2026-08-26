@@ -41,47 +41,15 @@
 
 ---
 
-## 💻 Featured Projects
-
-<p align="center">
-  <!-- Replace repository-name with your actual repo name -->
-  <a href="https://github.com/berty0">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=berty0&repo=your-cool-project&theme=tokyonight" />
-  </a>
-</p>
-
----
-
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/berty0">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=berty0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Berty's GitHub Stats" />
-  </a>
-  <a href="https://github.com/berty0">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berty0&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  </a>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=berty0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berty0&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/berty0">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=berty0&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
-
-<!-- Contribution Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/berty0/berty0/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/berty0/berty0/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/berty0/berty0/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
-## ⚡ Random Dev Quote
-
-<p align="center">
-  <img src="https://readme-quotes-celestial.vercel.app/api?theme=tokyonight" alt="Dev Quote" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=berty0&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
